@@ -1,2 +1,2 @@
-# python_seaborn_business_analysis
+# Business analysis with Python and Seaborn
 Analysis of discount efficiency of a business
